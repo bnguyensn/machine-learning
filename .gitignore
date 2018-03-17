@@ -58,3 +58,6 @@ Temporary Items
 
 # virtualenv
 ENV
+
+# others
+models
